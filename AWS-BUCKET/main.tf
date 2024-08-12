@@ -1,6 +1,6 @@
 
 terraform {
-    required_version = ">= 1.3.0"
+  required_version = ">= 1.3.0"
   required_providers {
     aws = {
       source  = "hashicorp/aws"
@@ -10,13 +10,13 @@ terraform {
 }
 
 provider "aws" {
-    region = "sa-east-1"  #colocar sa-east-1 para a região de São Paulo
-    
-    default_tags {
-      tags = {
-        owner = "colombo"
-        environment = "dev"
-        managed_by = "terraform"
-      }
+  region = "sa-east-1" #colocar sa-east-1 para a região de São Paulo
+
+  default_tags {
+    tags = {
+      owner       = "colombo"
+      environment = "dev"
+      managed_by  = "terraform"
     }
+  }
 }
