@@ -1,0 +1,17 @@
+AWS-AZURE-REMOTE/.terraform.lock.hcl
+AWS-AZURE-REMOTE/.terraform/providers/registry.terraform.io/hashicorp/aws/5.62.0/linux_amd64/LICENSE.txt
+AWS-AZURE-REMOTE/.terraform/providers/registry.terraform.io/hashicorp/aws/5.62.0/linux_amd64/terraform-provider-aws_v5.62.0_x5
+AWS-AZURE-REMOTE/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.115.0/linux_amd64/LICENSE.txt
+AWS-AZURE-REMOTE/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.115.0/linux_amd64/terraform-provider-azurerm_v3.115.0_x5
+AWS-BUCKET/.terraform/providers/registry.terraform.io/hashicorp/aws/3.76.1/linux_amd64/terraform-provider-aws_v3.76.1_x5
+AZURE-RESOURCE/.terraform.lock.hcl
+AZURE-RESOURCE/terraform.tfstate.backup
+AZURE-RESOURCE/.terraform/providers/registry.terraform.io/hashicorp/azurerm/3.52.0/linux_amd64/terraform-provider-azurerm_v3.52.0_x5
+LOCAL-STATE/.terraform.lock.hcl
+LOCAL-STATE/plan.out
+LOCAL-STATE/terraform.tfstate.backup
+LOCAL-STATE/.terraform/providers/registry.terraform.io/hashicorp/aws/5.62.0/linux_amd64/LICENSE.txt
+LOCAL-STATE/.terraform/providers/registry.terraform.io/hashicorp/aws/5.62.0/linux_amd64/terraform-provider-aws_v5.62.0_x5
+AWS-AZURE-REMOTE/plan.out
+LOCAL-STATE/terraform.tfstate
+AWS-AZURE-REMOTE/terraform.tfstate
