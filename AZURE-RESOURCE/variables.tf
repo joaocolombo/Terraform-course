@@ -25,7 +25,7 @@ variable "resource_group_name" {
 variable "storage_account_name" {
   description = "Nome do storage account"
   type        = string
-  default     = "colomboterraformstoragexx"
+  default     = "colomboterraformstorage"
 }
 
 variable "container_name" {
